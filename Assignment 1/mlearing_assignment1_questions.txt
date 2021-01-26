@@ -1,0 +1,16 @@
+1. Based on what you accomplished on steps 3 and 4, answer this question.
+Only looking at the mean of cross validation scores, which of the two
+models, K-Nearest Neighbors model and the Artificial Neural Networks model,
+is better?
+
+Your answer: The Artificial Neural Networks model as it has a lower mean.
+
+2. Based on what you accomplished on steps 5 and 6, answer this question.
+What is the best KNN model hyperparameter based your grid search?
+
+Your answer: {algorithm = auto, n_neighbours = 10, p = 1}
+
+
+(Note there may be non-deterministicness in your experiments so that the errors
+your program computes may vary.  As such, your answers here should be
+consistent with the error results shown in your Jupyter Notebook.)

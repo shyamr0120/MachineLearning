@@ -1,0 +1,3 @@
+The K-means model produced a Rand Index score of 0.613275381756081 and the Complete-Linkage AGNES produced a Rand Index score of 0.6557215966654162.
+Note that the Rand Index score for K-means can vary slightly between runs.
+Form these results, we can say that Complete-Linkage AGNES model performed better than the K-Means model as it produced the larger Rand Index score.
